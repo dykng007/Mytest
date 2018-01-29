@@ -1,2 +1,2 @@
-from testing
+from testing and master
 # Mytest
